@@ -67,6 +67,17 @@ This repository contains all tasks and projects completed during my Data Analyti
 # Project Outcome
 
 This internship helped strengthen my practical understanding of data analytics workflows, dashboard development, business intelligence techniques, and data-driven decision-making.
+Repository Links
+Task 1 [Repository Link](https://github.com/Seeram-Meghana/task-1-of-apexplanet-.git)
+Task 2 [Repository Link](https://github.com/Seeram-Meghana/task-2-of-apexplanet.git)
+Task 3 [Repository Link](https://github.com/Seeram-Meghana/task-3-of-apexplanet.git)
+Task 4 [Repository Link](https://github.com/Seeram-Meghana/task-4-of-apexplanet.git)
+
+
+
+Final Reflection
+
+Through this internship, I gained hands-on experience in solving business problems using data analytics tools and techniques. The projects improved my technical, analytical, and presentation skills while helping me understand real-world business intelligence workflows.
 
 
 
