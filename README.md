@@ -68,19 +68,6 @@ This repository contains all tasks and projects completed during my Data Analyti
 
 This internship helped strengthen my practical understanding of data analytics workflows, dashboard development, business intelligence techniques, and data-driven decision-making.
 
----
 
-# Repository Links
-
-* Task 1 Repository Link
-* Task 2 Repository Link
-* Task 3 Repository Link
-* Task 4 Repository Link
-
-(Add GitHub Links Here)
-
----
-
-# Final Reflection
 
 Through this internship, I gained hands-on experience in solving business problems using data analytics tools and techniques. The projects improved my technical, analytical, and presentation skills while helping me understand real-world business intelligence workflows.
